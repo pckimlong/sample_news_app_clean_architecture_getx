@@ -1,16 +1,7 @@
-# news_flutter
+# Sample News App
 
-A new Flutter project.
+Just an example of very simple News Application using flutter call to restful API, follow concept of clean architecture and GetX as state management.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To run the app you must config API key in data/datasource/api_datasource.dart. By go to https://newsapi.org
